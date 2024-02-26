@@ -1,65 +1,62 @@
-[
-    { 
-      "code": 0,
-      "message": "Thành công",
-      "data": [
-        {
-          "title": "Hành chính - Ranh giới tỉnh",
-          "titleName": "ranhgioitinh",
-          "directory": "/gdci/maproxy/map",
-          "isShowOnMap": "true",
-          "isEnable":"false"
-        },
-        {
-            "lable": "Hành chính - Địa phận huyện",
-            "titleName": "diaphanhuyen",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Hành chính - Địa phận xã",
-            "titleName": "diaphanxa",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Quy hoạch chung TP, vùng huyện",
-            "titleName": "banDoQuyHoachVungHuyen",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Quy hoạch chung thị trấn",
-            "titleName": "banDoQuyHoachChungThiTran",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Quy hoạch phân khu",
-            "titleName": "banDoQuyHoachPhanKhu",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Quy hoạch chi tiết",
-            "titleName": "banDoQuyHoachChiTiet",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        },
-        {
-            "lable": "Quy hoạch nông thôn mới",
-            "titleName": "banDoQuyHoachNongThonMoi",
-            "directory": "/gdci/maproxy/map",
-            "isShowOnMap": "true",
-            "isEnable":"false"
-        }
-      ]
+{ 
+    "code": 0,
+    "message": "Thành công",
+    "data": [
+    {
+        "title": "Hành chính - Ranh giới tỉnh",
+        "titleName": "ranhgioitinh",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "false",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Hành chính - Địa phận huyện",
+        "titleName": "diaphanhuyen",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "true",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Hành chính - Địa phận xã",
+        "titleName": "diaphanxa",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "false",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Quy hoạch chung TP, vùng huyện",
+        "titleName": "banDoQuyHoachVungHuyen",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "false",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Quy hoạch chung thị trấn",
+        "titleName": "banDoQuyHoachChungThiTran",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "false",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Quy hoạch phân khu",
+        "titleName": "banDoQuyHoachPhanKhu",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "true",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Quy hoạch chi tiết",
+        "titleName": "banDoQuyHoachChiTiet",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "true",
+        "isEnable":"true"
+    },
+    {
+        "lable": "Quy hoạch nông thôn mới",
+        "titleName": "banDoQuyHoachNongThonMoi",
+        "directory": "/gdci/maproxy/map",
+        "isShowOnMap": "false",
+        "isEnable":"true"
     }
-]
-  
+    ]
+}
