@@ -3,7 +3,7 @@
     "message": "Thành công",
     "data": [
     {
-        "title": "Hành chính - Ranh giới tỉnh",
+        "lable": "Hành chính - Ranh giới tỉnh",
         "titleName": "ranhgioitinh",
         "directory": "/gdci/maproxy/map",
         "isShowOnMap": "false",
